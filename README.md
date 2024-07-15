@@ -31,6 +31,10 @@ You can customize the calendar's style by editing the `style.css` file. Addition
 
 Feel free to contribute improvements or suggestions to this project. You can fork the repository, create a branch with your changes, and submit a pull request.
 
+### Screenshot
+
+![image](https://github.com/user-attachments/assets/bcc48b23-8a3b-44a4-ba35-b33ef5f44e36)
+
 ### License
 
 This project is in the public domain. You can use and modify it as you wish.
